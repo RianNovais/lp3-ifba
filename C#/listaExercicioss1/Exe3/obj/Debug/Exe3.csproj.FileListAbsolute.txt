@@ -1,0 +1,8 @@
+C:\Users\Maste\source\repos\listaExercicioss1\Exe3\bin\Debug\Exe3.exe.config
+C:\Users\Maste\source\repos\listaExercicioss1\Exe3\bin\Debug\Exe3.exe
+C:\Users\Maste\source\repos\listaExercicioss1\Exe3\bin\Debug\Exe3.pdb
+C:\Users\Maste\source\repos\listaExercicioss1\Exe3\obj\Debug\Exe3.csproj.AssemblyReference.cache
+C:\Users\Maste\source\repos\listaExercicioss1\Exe3\obj\Debug\Exe3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maste\source\repos\listaExercicioss1\Exe3\obj\Debug\Exe3.csproj.CoreCompileInputs.cache
+C:\Users\Maste\source\repos\listaExercicioss1\Exe3\obj\Debug\Exe3.exe
+C:\Users\Maste\source\repos\listaExercicioss1\Exe3\obj\Debug\Exe3.pdb

@@ -1,0 +1,4 @@
+Descrição: Biscoito
+Preço: R$3
+Quantidade no Estoque : 413
+Data de Validade : 10/02/2023

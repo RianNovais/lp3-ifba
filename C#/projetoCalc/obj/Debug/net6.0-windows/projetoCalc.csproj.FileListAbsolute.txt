@@ -1,0 +1,17 @@
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\bin\Debug\net6.0-windows\projetoCalc.exe
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\bin\Debug\net6.0-windows\projetoCalc.deps.json
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\bin\Debug\net6.0-windows\projetoCalc.runtimeconfig.json
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\bin\Debug\net6.0-windows\projetoCalc.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\bin\Debug\net6.0-windows\projetoCalc.pdb
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.csproj.AssemblyReference.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.Form1.resources
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.csproj.GenerateResource.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\refint\projetoCalc.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.pdb
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\projetoCalc.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\projetoCalc\obj\Debug\net6.0-windows\ref\projetoCalc.dll

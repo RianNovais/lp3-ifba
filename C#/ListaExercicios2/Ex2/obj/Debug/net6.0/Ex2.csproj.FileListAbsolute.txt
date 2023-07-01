@@ -1,0 +1,45 @@
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.csproj.AssemblyReference.cache
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.exe
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.deps.json
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.dll
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.pdb
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.dll
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\refint\Ex2.dll
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.pdb
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
+C:\Users\Maste\source\repos\ListaExercicios2\Ex2\obj\Debug\net6.0\ref\Ex2.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.exe
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.deps.json
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.pdb
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.csproj.AssemblyReference.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\refint\Ex2.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.pdb
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LPIII\ListaExercicios2\Ex2\obj\Debug\net6.0\ref\Ex2.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.exe
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.deps.json
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\bin\Debug\net6.0\Ex2.pdb
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.csproj.AssemblyReference.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\refint\Ex2.dll
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.pdb
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
+C:\Users\Maste\OneDrive\Área de Trabalho\LP3\ListaExercicios2\Ex2\obj\Debug\net6.0\ref\Ex2.dll
